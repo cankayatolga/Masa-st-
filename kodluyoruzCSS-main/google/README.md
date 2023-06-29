@@ -1,2 +1,0 @@
-# Kodluyoruz Google Homepage
-
